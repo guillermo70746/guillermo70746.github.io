@@ -1,4 +1,4 @@
-# Hello World 
+# Guillermo Bernal's Portfolio 
 
 This is my home page My naem is Guillermo Alexander Bernal Lopez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) a computer engineer
 
